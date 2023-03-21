@@ -1,0 +1,15 @@
+C:\Users\Student\source\repos\cviko4\cviko4\bin\Debug\net6.0\cviko4.exe
+C:\Users\Student\source\repos\cviko4\cviko4\bin\Debug\net6.0\cviko4.deps.json
+C:\Users\Student\source\repos\cviko4\cviko4\bin\Debug\net6.0\cviko4.runtimeconfig.json
+C:\Users\Student\source\repos\cviko4\cviko4\bin\Debug\net6.0\cviko4.dll
+C:\Users\Student\source\repos\cviko4\cviko4\bin\Debug\net6.0\cviko4.pdb
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.AssemblyInfo.cs
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.dll
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\refint\cviko4.dll
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.pdb
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\cviko4.genruntimeconfig.cache
+C:\Users\Student\source\repos\cviko4\cviko4\obj\Debug\net6.0\ref\cviko4.dll
